@@ -1,0 +1,7 @@
+venv/
+images/descriptions.json
+*.jpg
+*.webp
+*.png
+*.jpeg
+*.keras
