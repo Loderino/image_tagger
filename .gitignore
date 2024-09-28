@@ -1,5 +1,6 @@
 venv/
 images/descriptions.json
+models/*.json
 *.jpg
 *.webp
 *.png
