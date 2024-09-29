@@ -1,8 +1,9 @@
 venv/
-images/descriptions.json
+descriptions.json
 models/*.json
 *.jpg
 *.webp
 *.png
 *.jpeg
 *.keras
+*.gz
