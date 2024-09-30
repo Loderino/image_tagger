@@ -1,6 +1,8 @@
 gensim==4.3.3
+ipykernel==6.29.5
 jupyter_client==8.6.3
 jupyter_core==5.7.2
 numpy==1.26.4
+pillow==10.4.0
 scikit-learn==1.5.2
 tensorflow==2.17.0
