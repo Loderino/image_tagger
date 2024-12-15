@@ -1,4 +1,5 @@
 venv/
+__pycache__/
 descriptions.json
 models/*.json
 *.jpg
@@ -7,3 +8,5 @@ models/*.json
 *.jpeg
 *.keras
 *.gz
+*.bin
+*.vec
